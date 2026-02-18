@@ -4,7 +4,7 @@
 
 ## Overview
 
-**![Dashboard Preview](Resources/images/P3.gif)**
+**![Dashboard Preview](Resources/Images/P3.gif)**
 
 This repository contains a five-page executive-level Power BI control tower built on a structured retail dataset (2016–2026).
 
@@ -83,7 +83,7 @@ Five structured pages forming a decision making control tool.
 
 ### 1. Inventory Health
 
-![Inventory Health](Resources/images/P1.gif)
+![Inventory Health](Resources/Images/P1.gif)
 
 **Purpose:**  
 Evaluate structural inventory balance.
@@ -104,7 +104,7 @@ Evaluate structural inventory balance.
 
 ### 2. Replenishment & PO Performance
 
-![Procurement Performance](Resources/images/P2.gif)
+![Procurement Performance](Resources/Images/P2.gif)
 
 **Purpose:**  
 Assess procurement execution reliability.
@@ -124,7 +124,7 @@ Assess procurement execution reliability.
 
 ### 3. Supplier Risk Scorecard
 
-![Supplier Risk](Resources/images/P3.gif)
+![Supplier Risk](Resources/Images/P3.gif)
 
 **Purpose:**  
 Classify structural supplier risk.
@@ -144,7 +144,7 @@ Classify structural supplier risk.
 
 ### 4. Distribution Network Risk & Performance
 
-![DC Risk](Resources/images/P4.gif)
+![DC Risk](Resources/Images/P4.gif)
 
 **Purpose:**  
 Evaluate logistics network stability.
@@ -164,7 +164,7 @@ Evaluate logistics network stability.
 
 ### 5. Executive Overview — Inventory & Supply Risk
 
-![Executive Overview](Resources/images/P5.gif)
+![Executive Overview](Resources/Images/P5.gif)
 
 **Purpose:**  
 Board-level structural risk snapshot.
