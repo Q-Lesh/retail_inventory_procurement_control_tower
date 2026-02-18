@@ -83,7 +83,7 @@ Five structured pages forming a decision making control tool.
 
 ### 1. Inventory Health
 
-![Inventory Health](Resources/P1.gif)
+![Inventory Health](https://github.com/Q-Lesh/PowerBi_Project_3/blob/main/Resourses/P1.gif?raw=true)
 
 **Purpose:**  
 Evaluate structural inventory balance.
@@ -104,7 +104,7 @@ Evaluate structural inventory balance.
 
 ### 2. Replenishment & PO Performance
 
-![Procurement Performance](Resources/P2.gif)
+![Procurement Performance](https://github.com/Q-Lesh/PowerBi_Project_3/blob/main/Resourses/P2.gif?raw=true)
 
 **Purpose:**  
 Assess procurement execution reliability.
@@ -124,7 +124,7 @@ Assess procurement execution reliability.
 
 ### 3. Supplier Risk Scorecard
 
-![Supplier Risk](Resources/P3.gif)
+![Supplier Risk](https://github.com/Q-Lesh/PowerBi_Project_3/blob/main/Resourses/P3.gif?raw=true)
 
 **Purpose:**  
 Classify structural supplier risk.
@@ -144,7 +144,7 @@ Classify structural supplier risk.
 
 ### 4. Distribution Network Risk & Performance
 
-![DC Risk](Resources/P4.gif)
+![DC Risk](https://github.com/Q-Lesh/PowerBi_Project_3/blob/main/Resourses/P4.gif?raw=true)
 
 **Purpose:**  
 Evaluate logistics network stability.
@@ -164,7 +164,7 @@ Evaluate logistics network stability.
 
 ### 5. Executive Overview — Inventory & Supply Risk
 
-![Executive Overview](Resources/P5.gif)
+![Executive Overview](https://github.com/Q-Lesh/PowerBi_Project_3/blob/main/Resourses/P5.gif?raw=true)
 
 **Purpose:**  
 Board-level structural risk snapshot.
