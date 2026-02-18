@@ -4,7 +4,7 @@
 
 ## Overview
 
-![Dashboard Preview]((https://github.com/Q-Lesh/PowerBi_Project_3/blob/main/Resourses/P3.gif?raw=true)](https://github.com/Q-Lesh/PowerBi_Project_3/blob/main/Resourses/P1.gif))
+![Dashboard Preview](https://github.com/Q-Lesh/PowerBi_Project_3/blob/main/Resourses/P3.gif?raw=true)](https://github.com/Q-Lesh/PowerBi_Project_3/blob/main/Resourses/P1.gif)
 
 This repository contains a five-page executive-level Power BI control tower built on a structured retail dataset (2016–2026).
 
