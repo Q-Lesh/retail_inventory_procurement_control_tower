@@ -1,4 +1,4 @@
-# Power BI: Inventory & Procurement Control Tower (2016–2026)
+# Inventory & Procurement Control Tower (2016–2026)
 
 ---
 
